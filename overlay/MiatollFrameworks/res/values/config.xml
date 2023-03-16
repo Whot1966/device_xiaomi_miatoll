@@ -562,4 +562,7 @@
     <!-- The restoring is handled by modem if it is true-->
     <bool name="skip_restoring_network_selection">true</bool>
 
+    <!-- Auto-brightness sensor type string -->
+    <string name="config_displayLightSensorType">"android.sensor.light"</string>
+
 </resources>
